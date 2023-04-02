@@ -1,0 +1,1 @@
+import{_ as o,r as t,o as s,c as a,a as n,b as _}from"./index-35730106.js";const c={},r={class:"about"},l=_("h1",null,"This is an about page",-1);function u(d,i){const e=t("ReloadPromptVue");return s(),a("div",r,[l,n(e)])}const m=o(c,[["render",u]]);export{m as default};
